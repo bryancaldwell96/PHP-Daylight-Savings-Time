@@ -2,7 +2,7 @@
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <title>Assignment 9</title>
+    <title>Daylight Savings Time</title>
     <link rel="stylesheet" type="text/css" href="common.css" />
   </head>
   <body>
@@ -10,6 +10,8 @@
 
 <?php
 
+// This site assumes DST is a static date that never changes and starts/ends at the same time every year
+    
 // Daylight Savings Time begins at 2:00AM on Sunday, March 8
 // Daylight Savings Time ends at 2:00 AM on Sunday, November 1
 
